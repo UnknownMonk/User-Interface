@@ -190,7 +190,9 @@ button {
 .main {
   text-align: center;
   font-size: 60px;
-  margin-bottom: 100px;
+  height: 379px;
+  width: 379px;
+  padding-top: 100px;
 }
 button {
   display: block;
